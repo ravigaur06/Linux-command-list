@@ -1,0 +1,40 @@
+1.
+ls
+2.
+ls -la
+3.
+ls -lai
+4.
+pwd
+5.
+cd
+6.
+cd ..
+7.
+cd~
+8.
+cd /
+9.
+tr
+10.
+uniq
+11.
+sort
+12.
+grep
+13.
+df -h
+14.
+du-h
+15.
+vmstat
+16.
+netstat -lunp
+17.
+ifconfig
+18.
+ip addr
+19.
+top
+20.
+  
